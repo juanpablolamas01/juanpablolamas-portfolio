@@ -306,7 +306,7 @@ export const projectsData = [
             },
             {
                 type: "image",
-                src: "/images/projects/howdy-1.jpg",
+                src: "/images/projects/howdy1.jpg",
                 alt: "Howdy.com overview"
             },
             {
@@ -334,7 +334,7 @@ export const projectsData = [
             },
             {
                 type: "image",
-                src: "/images/projects/howdy-2.jpg",
+                src: "/images/projects/howdy2.jpg",
                 alt: "Howdy challenge visualization"
             },
             {
@@ -366,7 +366,7 @@ export const projectsData = [
             },
             {
                 type: "image",
-                src: "/images/projects/howdy-3.jpg",
+                src: "/images/projects/howdy3.jpg",
                 alt: "Strategy and approach"
             },
             {
