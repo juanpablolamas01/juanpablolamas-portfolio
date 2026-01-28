@@ -3,6 +3,7 @@ import "./global.css"
 import BootstrapForBrowser from "@/components/ui/bootstrapForBrowser";
 import Header from "@/components/sections/header";
 import Footer from "@/components/sections/footer";
+import { Analytics } from "@vercel/analytics/next"
 
 export const metadata = {
   title: "Juan Pablo Lamas - Product Designer",
@@ -18,6 +19,7 @@ export default function RootLayout({ children }) {
         <Header />
         {children}
         <Footer />
+        <Analytics />
       </body>
     </html>
   );
